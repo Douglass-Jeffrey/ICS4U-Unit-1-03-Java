@@ -35,6 +35,6 @@ public class EnergyCalc {
 
     // Output
     System.out.println("Total theoretical energy capacity (J): " + energy); 
-    System.out.println("Energy in terms of 'kiloton' bombs (J) : " + bombsnum);
+    System.out.println("Energy in terms of 'kiloton' bombs : " + bombsnum);
   }
 }
